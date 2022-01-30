@@ -1,4 +1,4 @@
-# Hey, Im Panda!
+# Hey, Im Omi!
 
 ### I'm a student from Bangladesh. I started learning to code by myself and now im trying to make it a career haha!
 My skills include:
