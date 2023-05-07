@@ -7,7 +7,7 @@ My skills include:
           * Nodejs/Expressjs
           * Dart/Flutter (Ongoing)
 
-Presently, as of writing this Readme, im learning Golang. Hopefully I'll learn more things! Lets work together sometime!
+Presently, as of writing this Readme, im learning Flutter. Hopefully I'll learn more things! Lets work together sometime!
                                                                               
                                                                               
       
