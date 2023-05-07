@@ -5,9 +5,7 @@ My skills include:
 
           * JavaScript/React/Vuejs
           * Nodejs/Expressjs
-          * PHP/Laravel
-          * Python/Flask
-          * Golang
+          * Dart/Flutter (Ongoing)
 
 Presently, as of writing this Readme, im learning Golang. Hopefully I'll learn more things! Lets work together sometime!
                                                                               
