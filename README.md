@@ -5,6 +5,7 @@ My skills include:
 
           * JavaScript/React/Vuejs
           * Nodejs/Expressjs
+          * Discordjs
           * Dart/Flutter (Ongoing)
 
 Presently, as of writing this Readme, im learning Flutter. Hopefully I'll learn more things! Lets work together sometime!
