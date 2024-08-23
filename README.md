@@ -25,8 +25,8 @@ I’m always open to new opportunities and collaborations. If you have a project
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/omikhan4901/))
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)]((https://www.facebook.com/omikhan09))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omikhan4901/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omikhan09)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mehboobehsankhan@gmail.com)
 
 Thanks for visiting my GitHub profile! Let’s build something amazing together! 💪
