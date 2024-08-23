@@ -17,6 +17,8 @@ I’m currently deepening my knowledge of **React Native** and looking forward t
 
 ## 📈 GitHub Stats
 
+### Working tirelessly (and sometimes desperately) on those GitHub stats like it’s a full-time job. Send help! 😭
+
 ![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pandaaa-dev&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 
 ## 🌟 Let’s Collaborate!
@@ -27,7 +29,7 @@ I’m always open to new opportunities and collaborations. If you have a project
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omikhan4901/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/omikhan09)
-[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mehboobehsankhan@gmail.com)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:mehboobehsankhan@gmail.com)
 
 Thanks for visiting my GitHub profile! Let’s build something amazing together! 💪
 
