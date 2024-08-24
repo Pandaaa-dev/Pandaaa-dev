@@ -8,12 +8,12 @@ Here’s a snapshot of what I’m currently working with:
 
 - **Languages & Frameworks:** JavaScript, React, Vue.js, Node.js, Express.js
 - **Discord Development:** Discord.js
-- **Mobile Development:** React Native (currently learning!)
+- **Mobile Development:** React Native (currently learning! technically not mobile, but hey, still counts >.<)
 - **Databases:** MySQL, PostgreSQL, MongoDB
 
 ## 🌱 Currently Learning
 
-I’m currently deepening my knowledge of **React Native** and looking forward to exploring more exciting technologies in the near future.
+I’m currently deepening my knowledge of **React Native** and looking forward to exploring more exciting technologies in the near future. Other than that, trying to get the basics about **Web-Scraping** down, and get a little bit of leetcoding done. A lot of work to be done!
 
 ## 📈 GitHub Stats
 
