@@ -19,7 +19,7 @@ I’m currently deepening my knowledge of **React Native** and looking forward t
 
 #### Working tirelessly (and sometimes desperately) on those GitHub stats like it’s a full-time job. Send help! 😭
 
-![Omi's GitHub stats](https://github-readme-stats.vercel.app/api?username=omikhan4901&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![omikhan4901's Stats](https://github-readme-streak-stats.herokuapp.com/?user=omikhan4901&theme=dracula&hide_border=false)
 
 ## 🌟 Let’s Collaborate!
 
