@@ -16,6 +16,10 @@ Here’s a snapshot of what I’m currently working with:
 I’m currently deepening my knowledge of **React Native** and looking forward to exploring more exciting technologies in the near future. Other than that, trying to get the basics about **Web-Scraping** down, and get a little bit of leetcoding done. A lot of work to be done!
 
 ## 📈 GitHub Stats
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=omikhan4901&theme=dracula&show_icons=true&hide_border=false&count_private=true&rank_icon=github" />
+</a>
+
 ![omikhan4901's Stats](https://github-readme-stats.vercel.app/api?username=omikhan4901&theme=dracula&show_icons=true&hide_border=false&count_private=true&rank_icon=github)
 > Working tirelessly (and sometimes desperately) on those GitHub stats like it’s a full-time job. Send help! 😭
 
