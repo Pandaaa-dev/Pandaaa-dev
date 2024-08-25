@@ -16,11 +16,14 @@ Here’s a snapshot of what I’m currently working with:
 I’m currently deepening my knowledge of **React Native** and looking forward to exploring more exciting technologies in the near future. Other than that, trying to get the basics about **Web-Scraping** down, and get a little bit of leetcoding done. A lot of work to be done!
 
 ## 📈 GitHub Stats
+![omikhan4901's Stats](https://github-readme-stats.vercel.app/api?username=omikhan4901&theme=dracula&show_icons=true&hide_border=false&count_private=true)
+> Working tirelessly (and sometimes desperately) on those GitHub stats like it’s a full-time job. Send help! 😭
 
-#### Working tirelessly (and sometimes desperately) on those GitHub stats like it’s a full-time job. Send help! 😭
-
+## 🔥 GitHub Streak
 ![omikhan4901's Stats](https://github-readme-streak-stats.herokuapp.com/?user=omikhan4901&theme=dracula&hide_border=false)
 
+## 🔢 Most Used Languages
+![omikhan4901's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omikhan4901&theme=dracula&show_icons=true&hide_border=false&layout=compact)
 ## 🌟 Let’s Collaborate!
 
 I’m always open to new opportunities and collaborations. If you have a project or idea you’d like to work on, or if you just want to chat about tech, feel free to reach out!
